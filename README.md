@@ -1,6 +1,10 @@
 # Nodejs-API-MYSQL
 
 
-# Ejecutar Proyecto con npm install
+# Ejecutar Proyecto ## 
 
-# Correr Servidor con node main.js
+npm install
+
+# Correr Servidor ##
+
+node main.js
